@@ -40,6 +40,7 @@
 
 | 프로젝트 | 한 줄 소개 | 기술 |
 |---|---|---|
+| [bbiyong](https://github.com/yeaseunglee96/bbiyong) | 삐용 — CCTV·순찰 로봇 화재 감지 통합 관제 시스템 (SSAFY 공통 프로젝트, 기획·FE) | React · Spring Boot · ROS 2 · YOLO |
 | [LOCAL_ROUTE_DEMO](https://github.com/yeaseunglee96/LOCAL_ROUTE_DEMO) | 가볼래 기획을 검증한 로컬 여행 코스 추천 통합 MVP | TypeScript · Prisma |
 | [pin_travel_demo](https://github.com/yeaseunglee96/pin_travel_demo) | TRACE — 위치에 사진·메시지를 남기고 흔적으로 코스를 추천받는 소셜 트래블 맵 | JavaScript · 3D 지구본 · OpenStreetMap |
 | [new-ddokdak](https://github.com/yeaseunglee96/new-ddokdak) | 똑닥 v2 — 지식 그래프 기반 AI 금융 코칭(퀴즈 진단 → 자산 처방전) | Python · TypeScript |
