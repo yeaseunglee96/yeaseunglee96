@@ -10,13 +10,14 @@
 
 ---
 
-## 🌸 대표 프로젝트 — 가볼래 (GABOLLE)
+## 🌸 대표 프로젝트 — [가볼래 (GABOLLE)](https://github.com/yeaseunglee96/gabolle)
 
 > 부산을 처음 찾은 여행자를 위한 로컬 여행 앱 — 조건만 말하면 일정을 짜 주고, 현장에서 길·통역·편의시설까지 돕는다
 
 [![App Store](https://img.shields.io/badge/App_Store-출시-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6811252919)
 [![Google Play](https://img.shields.io/badge/Google_Play-출시-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gabolle.app)
 [![Web](https://img.shields.io/badge/Web-gabolle.kr-E5484D?style=flat-square&logo=googlechrome&logoColor=white)](https://gabolle.kr)
+[![Code](https://img.shields.io/badge/Code-yeaseunglee96/gabolle-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yeaseunglee96/gabolle)
 
 - **기간·팀**: 2026.08 – 2026.10 · 6명 · SSAFY 특화 프로젝트
 - **맡은 일**: 인프라 · 배포 · QA (+ 백엔드)
